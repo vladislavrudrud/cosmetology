@@ -6,4 +6,4 @@
 
 Ссылка на сайт:
 
-aura.vallistep.ru
+https://aura.vallistep.ru/
